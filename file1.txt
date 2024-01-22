@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 I am happy as always.
+=======
+i am happy always.
+ I am happy always.
+I am happy always.
+I am happy always.
+I am happy always.
+>>>>>>> gitwork
